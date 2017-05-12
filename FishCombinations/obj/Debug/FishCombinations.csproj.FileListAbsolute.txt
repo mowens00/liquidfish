@@ -1,0 +1,10 @@
+D:\Code\FishCombinations\FishCombinations\bin\Debug\FishCombinations.exe.config
+D:\Code\FishCombinations\FishCombinations\bin\Debug\FishCombinations.exe
+D:\Code\FishCombinations\FishCombinations\bin\Debug\FishCombinations.pdb
+D:\Code\FishCombinations\FishCombinations\bin\Debug\Newtonsoft.Json.dll
+D:\Code\FishCombinations\FishCombinations\bin\Debug\RestSharp.dll
+D:\Code\FishCombinations\FishCombinations\bin\Debug\Newtonsoft.Json.xml
+D:\Code\FishCombinations\FishCombinations\bin\Debug\RestSharp.xml
+D:\Code\FishCombinations\FishCombinations\obj\Debug\FishCombinations.csprojResolveAssemblyReference.cache
+D:\Code\FishCombinations\FishCombinations\obj\Debug\FishCombinations.exe
+D:\Code\FishCombinations\FishCombinations\obj\Debug\FishCombinations.pdb
